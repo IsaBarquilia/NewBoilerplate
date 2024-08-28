@@ -1,9 +1,11 @@
 import { StyleSheet } from "react-native";
 const style = StyleSheet.create({
- 
-    title: {
-        fontSize: 20,
-        color: "black"
+
+    button:{
+        backgroundColor: "pink",
+        padding: 10,
+        borderRadius: 5,
+        
     }
 })
 export default style;

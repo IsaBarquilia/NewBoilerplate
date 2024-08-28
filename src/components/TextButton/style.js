@@ -1,7 +1,8 @@
 import { StyleSheet } from "react-native";
+import TextButton from ".";
 const style = StyleSheet.create({
  
-    title: {
+    TextButton: {
         fontSize: 20,
         color: "black"
     }
