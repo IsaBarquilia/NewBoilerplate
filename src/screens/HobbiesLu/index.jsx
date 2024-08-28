@@ -13,7 +13,7 @@ export default function Hobbies() {
     <View style={style.container}>
       <Title title={"Hobbies page"} />
       <Button screen={"Home"} name={"Volte para a página inicial"}/>
-      <Button screen={"Filmes"} name={"Veja nossos filmes favoritos"}/>
+      <Button screen={"FilmesLu"} name={"Veja meus filmes favoritos"}/>
     </View>
   )
 }
